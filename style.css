@@ -79,4 +79,9 @@ button{
 
 }
 
+.pressed{
+    box-shadow: indianred;
+    opacity: 0.5;
+}
+
 
